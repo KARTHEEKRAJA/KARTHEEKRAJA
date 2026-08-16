@@ -1,8 +1,10 @@
+<!-- 3D Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1A3A5C,100:C74634&height=220&section=header&text=Kartheek%20Raja&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20AI%20Enthusiast%20%7C%20Python%20Developer%20%7C%20Lifelong%20Learner&descSize=16&descColor=D4A843&descAlignY=55"/>
+
 <div align="center">
 
-# Hey there, I'm Kartheek Raja 👋
-
-### Cloud & AI Enthusiast | Python Developer | Lifelong Learner
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C74634&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=55&lines=Building+AI+Agents+%F0%9F%A4%96;15%2B+Certifications+%F0%9F%8F%85;Oracle+%7C+AWS+%7C+Azure+Certified+%E2%98%81%EF%B8%8F;31-Day+AI+Cohort+Graduate+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartheek-raja-69603b16b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KARTHEEKRAJA)
@@ -23,35 +25,30 @@
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,javascript,bash&theme=dark" />
 
 **AI / ML**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 **Cloud & DevOps**
 
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git&theme=dark" />
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 **Tools**
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=vscode,idea,linux&theme=dark" />
+
+</div>
 
 ---
 
@@ -105,6 +102,17 @@
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+[![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)](https://github.com/KARTHEEKRAJA?achievement=pull-shark&tab=achievements)
+[![Arctic Code Vault Contributor](https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png)](https://github.com/KARTHEEKRAJA?achievement=arctic-code-vault-contributor&tab=achievements)
+
+</div>
+
+---
+
 ## 🔥 Featured Projects
 
 ### 🧠 31-Day AI Cohort Projects
@@ -127,8 +135,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=KARTHEEKRAJA&color=blueviolet&style=flat-square)
-
-*"Stay curious. Keep building."*
+![Profile Views](https://komarev.com/ghpvc/?username=KARTHEEKRAJA&color=blueviolet&style=for-the-badge)
 
 </div>
+
+<!-- 3D Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C74634,50:1A3A5C,100:0D1B2A&height=120&section=footer"/>
