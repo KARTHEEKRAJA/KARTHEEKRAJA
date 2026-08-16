@@ -54,9 +54,8 @@
 
 <div align="center">
 
-<a href="https://github.com/KARTHEEKRAJA"><img src="oci-ai-badge.png" width="150" alt="OCI AI Foundations Associate"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/KARTHEEKRAJA"><img src="agentic-ai-badge.png" width="150" alt="Agentic AI Foundations Associate"/></a>
+<!-- Upload 'oracle-cert-banner.png' to your repo -->
+<img src="oracle-cert-banner.png" width="700" alt="Oracle Certifications"/>
 
 </div>
 
