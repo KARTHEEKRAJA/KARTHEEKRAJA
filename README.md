@@ -1,10 +1,9 @@
-<!-- 3D Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1A3A5C,100:C74634&height=220&section=header&text=Kartheek%20Raja&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20AI%20Enthusiast%20%7C%20Python%20Developer%20%7C%20Lifelong%20Learner&descSize=16&descColor=D4A843&descAlignY=55"/>
-
+<!-- Animated Header -->
 <div align="center">
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C74634&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=55&lines=Building+AI+Agents+%F0%9F%A4%96;15%2B+Certifications+%F0%9F%8F%85;Oracle+%7C+AWS+%7C+Azure+Certified+%E2%98%81%EF%B8%8F;31-Day+AI+Cohort+Graduate+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=C74634&center=true&vCenter=true&width=500&height=45&lines=Hey+%F0%9F%91%8B+I'm+Kartheek+Raja" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=D4A843&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Building+AI+Agents+%F0%9F%A4%96;15%2B+Certifications+%F0%9F%8F%85;Oracle+%7C+AWS+%7C+Azure+Certified+%E2%98%81%EF%B8%8F;31-Day+AI+Cohort+Graduate+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartheek-raja-69603b16b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KARTHEEKRAJA)
@@ -34,15 +33,14 @@
 **AI / ML**
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
 **Cloud & DevOps**
 
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,git&theme=dark" />
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 **Tools**
 
@@ -106,8 +104,8 @@
 
 <div align="center">
 
-[![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)](https://github.com/KARTHEEKRAJA?achievement=pull-shark&tab=achievements)
-[![Arctic Code Vault Contributor](https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png)](https://github.com/KARTHEEKRAJA?achievement=arctic-code-vault-contributor&tab=achievements)
+<a href="https://github.com/KARTHEEKRAJA?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" /></a>
+<a href="https://github.com/KARTHEEKRAJA?achievement=arctic-code-vault-contributor&tab=achievements"><img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" width="80" /></a>
 
 </div>
 
@@ -137,7 +135,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KARTHEEKRAJA&color=blueviolet&style=for-the-badge)
 
-</div>
+*"Stay curious. Keep building."*
 
-<!-- 3D Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C74634,50:1A3A5C,100:0D1B2A&height=120&section=footer"/>
+</div>
